@@ -1,0 +1,15 @@
+C:\dhanar_rizky_krisnadhy\PROGRAMMING\LOGIC\C#\SumArr\bin\Debug\net7.0\SumArr.exe
+C:\dhanar_rizky_krisnadhy\PROGRAMMING\LOGIC\C#\SumArr\bin\Debug\net7.0\SumArr.deps.json
+C:\dhanar_rizky_krisnadhy\PROGRAMMING\LOGIC\C#\SumArr\bin\Debug\net7.0\SumArr.runtimeconfig.json
+C:\dhanar_rizky_krisnadhy\PROGRAMMING\LOGIC\C#\SumArr\bin\Debug\net7.0\SumArr.dll
+C:\dhanar_rizky_krisnadhy\PROGRAMMING\LOGIC\C#\SumArr\bin\Debug\net7.0\SumArr.pdb
+C:\dhanar_rizky_krisnadhy\PROGRAMMING\LOGIC\C#\SumArr\obj\Debug\net7.0\SumArr.csproj.AssemblyReference.cache
+C:\dhanar_rizky_krisnadhy\PROGRAMMING\LOGIC\C#\SumArr\obj\Debug\net7.0\SumArr.GeneratedMSBuildEditorConfig.editorconfig
+C:\dhanar_rizky_krisnadhy\PROGRAMMING\LOGIC\C#\SumArr\obj\Debug\net7.0\SumArr.AssemblyInfoInputs.cache
+C:\dhanar_rizky_krisnadhy\PROGRAMMING\LOGIC\C#\SumArr\obj\Debug\net7.0\SumArr.AssemblyInfo.cs
+C:\dhanar_rizky_krisnadhy\PROGRAMMING\LOGIC\C#\SumArr\obj\Debug\net7.0\SumArr.csproj.CoreCompileInputs.cache
+C:\dhanar_rizky_krisnadhy\PROGRAMMING\LOGIC\C#\SumArr\obj\Debug\net7.0\SumArr.dll
+C:\dhanar_rizky_krisnadhy\PROGRAMMING\LOGIC\C#\SumArr\obj\Debug\net7.0\refint\SumArr.dll
+C:\dhanar_rizky_krisnadhy\PROGRAMMING\LOGIC\C#\SumArr\obj\Debug\net7.0\SumArr.pdb
+C:\dhanar_rizky_krisnadhy\PROGRAMMING\LOGIC\C#\SumArr\obj\Debug\net7.0\SumArr.genruntimeconfig.cache
+C:\dhanar_rizky_krisnadhy\PROGRAMMING\LOGIC\C#\SumArr\obj\Debug\net7.0\ref\SumArr.dll

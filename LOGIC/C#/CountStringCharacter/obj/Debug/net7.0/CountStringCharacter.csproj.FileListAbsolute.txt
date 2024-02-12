@@ -1,0 +1,15 @@
+C:\dhanar_rizky_krisnadhy\PROGRAMMING\LOGIC\C#\CountStringCharacter\obj\Debug\net7.0\CountStringCharacter.csproj.AssemblyReference.cache
+C:\dhanar_rizky_krisnadhy\PROGRAMMING\LOGIC\C#\CountStringCharacter\obj\Debug\net7.0\CountStringCharacter.GeneratedMSBuildEditorConfig.editorconfig
+C:\dhanar_rizky_krisnadhy\PROGRAMMING\LOGIC\C#\CountStringCharacter\obj\Debug\net7.0\CountStringCharacter.AssemblyInfoInputs.cache
+C:\dhanar_rizky_krisnadhy\PROGRAMMING\LOGIC\C#\CountStringCharacter\obj\Debug\net7.0\CountStringCharacter.AssemblyInfo.cs
+C:\dhanar_rizky_krisnadhy\PROGRAMMING\LOGIC\C#\CountStringCharacter\obj\Debug\net7.0\CountStringCharacter.csproj.CoreCompileInputs.cache
+C:\dhanar_rizky_krisnadhy\PROGRAMMING\LOGIC\C#\CountStringCharacter\bin\Debug\net7.0\CountStringCharacter.exe
+C:\dhanar_rizky_krisnadhy\PROGRAMMING\LOGIC\C#\CountStringCharacter\bin\Debug\net7.0\CountStringCharacter.deps.json
+C:\dhanar_rizky_krisnadhy\PROGRAMMING\LOGIC\C#\CountStringCharacter\bin\Debug\net7.0\CountStringCharacter.runtimeconfig.json
+C:\dhanar_rizky_krisnadhy\PROGRAMMING\LOGIC\C#\CountStringCharacter\bin\Debug\net7.0\CountStringCharacter.dll
+C:\dhanar_rizky_krisnadhy\PROGRAMMING\LOGIC\C#\CountStringCharacter\bin\Debug\net7.0\CountStringCharacter.pdb
+C:\dhanar_rizky_krisnadhy\PROGRAMMING\LOGIC\C#\CountStringCharacter\obj\Debug\net7.0\CountStringCharacter.dll
+C:\dhanar_rizky_krisnadhy\PROGRAMMING\LOGIC\C#\CountStringCharacter\obj\Debug\net7.0\refint\CountStringCharacter.dll
+C:\dhanar_rizky_krisnadhy\PROGRAMMING\LOGIC\C#\CountStringCharacter\obj\Debug\net7.0\CountStringCharacter.pdb
+C:\dhanar_rizky_krisnadhy\PROGRAMMING\LOGIC\C#\CountStringCharacter\obj\Debug\net7.0\CountStringCharacter.genruntimeconfig.cache
+C:\dhanar_rizky_krisnadhy\PROGRAMMING\LOGIC\C#\CountStringCharacter\obj\Debug\net7.0\ref\CountStringCharacter.dll
