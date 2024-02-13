@@ -1,0 +1,15 @@
+D:\PEMROGRAMMAN\PROGRAMMING\PROGRAMMING\c#\CheckInterface\bin\Debug\net8.0\CheckInterface.exe
+D:\PEMROGRAMMAN\PROGRAMMING\PROGRAMMING\c#\CheckInterface\bin\Debug\net8.0\CheckInterface.deps.json
+D:\PEMROGRAMMAN\PROGRAMMING\PROGRAMMING\c#\CheckInterface\bin\Debug\net8.0\CheckInterface.runtimeconfig.json
+D:\PEMROGRAMMAN\PROGRAMMING\PROGRAMMING\c#\CheckInterface\bin\Debug\net8.0\CheckInterface.dll
+D:\PEMROGRAMMAN\PROGRAMMING\PROGRAMMING\c#\CheckInterface\bin\Debug\net8.0\CheckInterface.pdb
+D:\PEMROGRAMMAN\PROGRAMMING\PROGRAMMING\c#\CheckInterface\obj\Debug\net8.0\CheckInterface.GeneratedMSBuildEditorConfig.editorconfig
+D:\PEMROGRAMMAN\PROGRAMMING\PROGRAMMING\c#\CheckInterface\obj\Debug\net8.0\CheckInterface.AssemblyInfoInputs.cache
+D:\PEMROGRAMMAN\PROGRAMMING\PROGRAMMING\c#\CheckInterface\obj\Debug\net8.0\CheckInterface.AssemblyInfo.cs
+D:\PEMROGRAMMAN\PROGRAMMING\PROGRAMMING\c#\CheckInterface\obj\Debug\net8.0\CheckInterface.csproj.CoreCompileInputs.cache
+D:\PEMROGRAMMAN\PROGRAMMING\PROGRAMMING\c#\CheckInterface\obj\Debug\net8.0\CheckInterface.sourcelink.json
+D:\PEMROGRAMMAN\PROGRAMMING\PROGRAMMING\c#\CheckInterface\obj\Debug\net8.0\CheckInterface.dll
+D:\PEMROGRAMMAN\PROGRAMMING\PROGRAMMING\c#\CheckInterface\obj\Debug\net8.0\refint\CheckInterface.dll
+D:\PEMROGRAMMAN\PROGRAMMING\PROGRAMMING\c#\CheckInterface\obj\Debug\net8.0\CheckInterface.pdb
+D:\PEMROGRAMMAN\PROGRAMMING\PROGRAMMING\c#\CheckInterface\obj\Debug\net8.0\CheckInterface.genruntimeconfig.cache
+D:\PEMROGRAMMAN\PROGRAMMING\PROGRAMMING\c#\CheckInterface\obj\Debug\net8.0\ref\CheckInterface.dll

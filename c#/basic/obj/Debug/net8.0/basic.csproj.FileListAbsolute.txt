@@ -1,0 +1,15 @@
+D:\PEMROGRAMMAN\PROGRAMMING\PROGRAMMING\c#\basic\bin\Debug\net8.0\basic.exe
+D:\PEMROGRAMMAN\PROGRAMMING\PROGRAMMING\c#\basic\bin\Debug\net8.0\basic.deps.json
+D:\PEMROGRAMMAN\PROGRAMMING\PROGRAMMING\c#\basic\bin\Debug\net8.0\basic.runtimeconfig.json
+D:\PEMROGRAMMAN\PROGRAMMING\PROGRAMMING\c#\basic\bin\Debug\net8.0\basic.dll
+D:\PEMROGRAMMAN\PROGRAMMING\PROGRAMMING\c#\basic\bin\Debug\net8.0\basic.pdb
+D:\PEMROGRAMMAN\PROGRAMMING\PROGRAMMING\c#\basic\obj\Debug\net8.0\basic.GeneratedMSBuildEditorConfig.editorconfig
+D:\PEMROGRAMMAN\PROGRAMMING\PROGRAMMING\c#\basic\obj\Debug\net8.0\basic.AssemblyInfoInputs.cache
+D:\PEMROGRAMMAN\PROGRAMMING\PROGRAMMING\c#\basic\obj\Debug\net8.0\basic.AssemblyInfo.cs
+D:\PEMROGRAMMAN\PROGRAMMING\PROGRAMMING\c#\basic\obj\Debug\net8.0\basic.csproj.CoreCompileInputs.cache
+D:\PEMROGRAMMAN\PROGRAMMING\PROGRAMMING\c#\basic\obj\Debug\net8.0\basic.sourcelink.json
+D:\PEMROGRAMMAN\PROGRAMMING\PROGRAMMING\c#\basic\obj\Debug\net8.0\basic.dll
+D:\PEMROGRAMMAN\PROGRAMMING\PROGRAMMING\c#\basic\obj\Debug\net8.0\refint\basic.dll
+D:\PEMROGRAMMAN\PROGRAMMING\PROGRAMMING\c#\basic\obj\Debug\net8.0\basic.pdb
+D:\PEMROGRAMMAN\PROGRAMMING\PROGRAMMING\c#\basic\obj\Debug\net8.0\basic.genruntimeconfig.cache
+D:\PEMROGRAMMAN\PROGRAMMING\PROGRAMMING\c#\basic\obj\Debug\net8.0\ref\basic.dll
